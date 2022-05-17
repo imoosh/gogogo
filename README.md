@@ -1,4 +1,4 @@
-### go语言第三方常用库
+### Golang第三方常用库
 - web框架：https://github.com/gin-gonic/gin
 - orm框架：https://github.com/go-gorm/gorm
 - redis框架：https://github.com/gomodule/redigo
